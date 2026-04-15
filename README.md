@@ -1,4 +1,5 @@
 # <img src="https://flagcdn.com/w40/br.png" width="40"> 🧩 Plugin ST-Cookies para GLPI
+🇺🇸 [Read this documentation in English](https://github.com/serviceticst/stcookies/blob/main/README_EN.md)
 
 - O ST-Cookies adiciona um banner de preferências de cookies ao fluxo de login do GLPI e fornece uma página administrativa para configurar a mensagem de consentimento exibida aos usuários.
 
