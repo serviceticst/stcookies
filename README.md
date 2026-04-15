@@ -18,7 +18,7 @@
 ### 📋 Compatibilidade
 
 - 📥 [Plugin para versão 10 do GLPI] (Em breve)
-- 📥 [Plugin para versão 11 do GLPI](https://github.com/serviceticst/stcookies/releases/tag/v2.0.0)
+- 📥 [Plugin para versão 11 do GLPI](https://github.com/serviceticst/stcookies/releases/download/2.0.0/stcookies_glpi_11.zip)
 
 ## Instalação
 
