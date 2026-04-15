@@ -29,7 +29,6 @@
 ## Logs
 
 - Por padrão, o plugin grava os eventos de consentimento em arquivo de log, conforme a configuração do seu ambiente.
-- Em produção, o ideal é usar rotação com `logrotate` ou mecanismo equivalente.
 
 <img width="1338" height="76" alt="image" src="https://github.com/user-attachments/assets/f8e0f008-3b3b-4478-b07c-d98ef361d232" />
 
