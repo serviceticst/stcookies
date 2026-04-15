@@ -16,19 +16,19 @@
 
 ### 📋 Compatibilidade
 
-- 📥 [Plugin para versão 10 do GLPI (Em breve)
+- 📥 [Plugin para versão 10 do GLPI] (Em breve)
 - 📥 [Plugin para versão 11 do GLPI](https://github.com/serviceticst/stcookies/releases/tag/v2.0.0)
 
 ## Instalação
 
-1. Copie a pasta `stcookies` do **pacote GLPI** para o diretório de plugins do seu GLPI.
+1. Copie a pasta **stcookies** do pacote do plugin para o diretório de plugins do GLPI.
 2. Limpe o cache do GLPI.
 3. Habilite o plugin em **Configurar > Plug-ins**.
 4. Abra a página de configuração do plugin e ajuste a mensagem de consentimento, se necessário.
 
 ## Logs
 
-- Por padrão, o plugin grava os eventos de consentimento em arquivo de log, conforme o layout do seu ambiente.
+- Por padrão, o plugin grava os eventos de consentimento em arquivo de log, conforme a configuração do seu ambiente.
 - Em produção, o ideal é usar rotação com `logrotate` ou mecanismo equivalente.
 
 <img width="1338" height="76" alt="image" src="https://github.com/user-attachments/assets/f8e0f008-3b3b-4478-b07c-d98ef361d232" />
@@ -39,7 +39,7 @@
 
 ## Aviso de marca
 
-**GLPI** é marca da **Teclib'**. Este projeto é um plugin independente e não é afiliado nem endossado pela Teclib', salvo indicação explícita.
+- **GLPI** é marca da **Teclib'**. Este projeto é um plugin independente e não é afiliado nem endossado pela Teclib', salvo indicação explícita.
 
 ***
 ### Desenvolvido por: Service TIC Soluções Tecnológicas
